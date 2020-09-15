@@ -1,5 +1,14 @@
 .navbar-light .navbar-brand {
   color: rgba(0, 0, 0, 0.9);
-  background: teal;
+  background: rgba(74, 170, 165, 0.9);
   color: white;
+}
+.white-bg {
+  background-color: white;
+}
+.moveRight {
+  text-align: right;
+}
+.backgroundImage {
+  background-image: url(../ignasi_pattern_s.png);
 }
