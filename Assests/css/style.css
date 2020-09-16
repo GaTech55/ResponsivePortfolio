@@ -28,7 +28,8 @@ footer {
   background-image: url(../ignasi_pattern_s.png);
 }
 .backgroundColor {
-  background-color: rgb(74, 170, 165);
+  background-color: rgb(74, 170, 165) !important;
+  border-color: rgb(74, 170, 165) !important;
 }
 .whiteText {
   color: white !important;
@@ -41,6 +42,14 @@ footer {
 }
 .borderRadius {
   border-radius: 0 !important;
+}
+.formPadding {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.btnPadding {
+  padding-left: 4%;
+  padding-right: 4%;
 }
 #aboutMe {
   padding: 10px;
