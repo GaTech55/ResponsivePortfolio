@@ -1,3 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+footer {
+  background-color: rgb(102, 102, 102);
+  color: rgb(108, 117, 125);
+  text-align: center;
+  border-top: 8px solid rgb(74, 170, 165);
+  flex-shrink: 0;
+}
+.content {
+  flex: 1 0 auto;
+}
 .moveRight {
   text-align: right;
 }
@@ -9,10 +27,4 @@
 }
 .whiteText {
   color: white;
-}
-.footer {
-  background-color: rgb(102, 102, 102);
-  color: rgb(108, 117, 125);
-  text-align: center;
-  border-top: 8px solid rgb(74, 170, 165);
 }
