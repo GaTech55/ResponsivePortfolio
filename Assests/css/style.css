@@ -19,6 +19,7 @@ footer {
 .backgroundWhite {
   background-color: white !important;
   margin-top: 5%;
+  padding: 2%;
 }
 .content {
   flex: 1 0 auto;
