@@ -6,12 +6,18 @@ body {
   display: flex;
   flex-direction: column;
 }
+br {
+  border-bottom: 4px solid gray;
+}
 footer {
   background-color: rgb(102, 102, 102);
   color: rgb(108, 117, 125);
   text-align: center;
   border-top: 8px solid rgb(74, 170, 165);
   flex-shrink: 0;
+}
+.container {
+  background-color: white !important;
 }
 .content {
   flex: 1 0 auto;
@@ -33,4 +39,7 @@ footer {
 }
 .familyTimes {
   font-family: "Times New Roman", Times, serif;
+}
+#aboutMe {
+  padding: 10px;
 }
