@@ -28,6 +28,9 @@ footer {
 .whiteText {
   color: white !important;
 }
+.tealText {
+  color: rgb(74, 170, 165);
+}
 .familyTimes {
   font-family: "Times New Roman", Times, serif;
 }
