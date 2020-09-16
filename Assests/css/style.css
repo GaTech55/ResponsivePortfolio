@@ -26,5 +26,8 @@ footer {
   background-color: rgb(74, 170, 165);
 }
 .whiteText {
-  color: white;
+  color: white !important;
+}
+.familyTimes {
+  font-family: "Times New Roman", Times, serif;
 }
