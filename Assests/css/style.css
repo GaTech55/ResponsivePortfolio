@@ -8,9 +8,9 @@ body {
 }
 footer {
   background-color: rgb(102, 102, 102);
-  color: rgb(108, 117, 125);
+  color: rgb(179, 163, 105);
   text-align: center;
-  border-top: 8px solid rgb(74, 170, 165);
+  border-top: 8px solid rgb(255, 255, 255);
   flex-shrink: 0;
 }
 .backgroundWhite {
@@ -25,17 +25,17 @@ footer {
   text-align: right;
 }
 .backgroundImage {
-  background-image: url(../ignasi_pattern_s.png);
+  background-image: url(../Honeycomb-Background.png);
 }
 .backgroundColor {
-  background-color: rgb(74, 170, 165) !important;
-  border-color: rgb(74, 170, 165) !important;
+  background-color: rgb(179, 163, 105) !important;
+  border-color: rgb(179, 163, 105) !important;
 }
 .whiteText {
   color: white !important;
 }
 .tealText {
-  color: rgb(74, 170, 165);
+  color: rgb(179, 163, 105);
 }
 .familyTimes {
   font-family: "Times New Roman", Times, serif;
